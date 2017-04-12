@@ -1,0 +1,22 @@
+{
+  "name": "sensormedal",
+  "version": "1.0.0",
+  "description": "SensorMedal tool for SensorMedal-EVK-001.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirotakaster/sensormedal.git"
+  },
+  "keywords": [
+    "SensorMedal"
+  ],
+  "author": "hirotakaster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirotakaster/sensormedal/issues"
+  },
+  "homepage": "https://github.com/hirotakaster/sensormedal#readme"
+}
